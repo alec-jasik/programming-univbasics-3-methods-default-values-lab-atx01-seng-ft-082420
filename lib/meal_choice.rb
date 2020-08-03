@@ -8,5 +8,4 @@ def meal_choice(veg1, veg2, protein = "tofu")
   puts meal 
   return meal 
 end
-meal_choice("broccoli", "macaroni")
-meal_choice("broccoli", "macaroni", "roast beef")
+
